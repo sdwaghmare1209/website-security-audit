@@ -1,3 +1,4 @@
+
 # Website Security Audit Portfolio
 
 This repository contains a complete website security audit performed in a controlled lab environment. The purpose of this project is to demonstrate practical web application security assessment skills, professional reporting, and vulnerability analysis using industry-standard methodologies.
@@ -45,3 +46,4 @@ Cybersecurity Student | Web Security Enthusiast
 ---
 
 This repository is intended for educational and portfolio demonstration purposes only.
+=======
